@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlekseyFF
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me WA/TG +79295993010
 
 <!---

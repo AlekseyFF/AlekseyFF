@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksey 
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me WA/TG +79295993010
+- 📫 How to reach me WA +79295993010, TG @revolver_lancelot
 
 <!---
 AlekseyFF/AlekseyFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
